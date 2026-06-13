@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: hybrid-anime-vectorizer
+    runtime: docker
+    plan: free
